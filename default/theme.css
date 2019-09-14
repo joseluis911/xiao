@@ -471,8 +471,8 @@ pre {
 
 @media (max-width: 425px) {
 
-   .hero{
-   
+   .logo{
+    display: none;
    	
   }
   .hero p {
